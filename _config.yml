@@ -1,0 +1,14 @@
+layout_spectrum: 0.952826953260228
+typography_spectrum: 0.5439864739309996
+color:
+  brandStrength: 0.146350011928007
+  lightness: 0.7869032451417297
+  saturation: 0.7706697063986212
+  rhythmicContrast: 0.2235088616143912
+  brandColors:
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
+name: FLIGHT
